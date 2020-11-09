@@ -1,6 +1,6 @@
 ## プロフィール
 
-Terraform と Ruby が得意なエンジニア。沖縄在住。
+Terraform と Ruby が好きなエンジニア。沖縄在住。
 最近は、Go を書いたり、raspberry-pi で遊んでたりします。
 
 ## 今後挑戦したいこと
