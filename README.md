@@ -1,13 +1,13 @@
 ## プロフィール
 
-Terraform と Ruby が好きなエンジニア。沖縄在住。
-最近は、Go を書いたり、raspberry-pi で遊んでたりします。
+AWSエンジニアです。Terraformが得意です。
+もともとアプリケーションエンジニアをしていたので、サービス全体の連携をとるのが得意です。
 
 ## 今後挑戦したいこと
 
 - データ分析基盤構築
 - dev.to のような爆速サービスの構築
-- ユーザーの行動データを分析し、より価値あるサービスを提供
+- k8s
 
 ## 経歴
 
@@ -56,6 +56,8 @@ Terraform と Ruby が好きなエンジニア。沖縄在住。
     - CloudFront
     - Route53
     - API Gateway
+    - Transit Gateway
+    - VPC Peering
 
   - Developer Tools
 
@@ -174,3 +176,5 @@ Terraform と Ruby が好きなエンジニア。沖縄在住。
 [Pragmatic Terraform on AWS](https://booth.pm/ja/items/1318735)
 
 [入門 監視 ――モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp/books/9784873118642/)
+
+[SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発](https://www.amazon.co.jp/dp/4798163686/ref=cm_sw_em_r_mt_dp_1FAJNPWVK2PS17THAAFM)
